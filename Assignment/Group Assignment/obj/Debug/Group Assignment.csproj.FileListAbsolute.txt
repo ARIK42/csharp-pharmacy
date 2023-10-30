@@ -1,0 +1,65 @@
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\bin\Debug\Group Assignment.exe.config
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\bin\Debug\Group Assignment.exe
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\bin\Debug\Group Assignment.pdb
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.Login.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.Properties.Resources.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.Splash.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.GenerateResource.cache
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group Assignment.exe
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group Assignment.pdb
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\bin\Debug\Mouve.dll
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.CopyComplete
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.AboutUs.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.AdminRegistration.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.Inventory.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.InventoryReport.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.SendCode.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.ChangePassword.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.AddItem.resources
+C:\Users\Ibrahim\source\repos\Assignment\Group Assignment\obj\Debug\Group_Assignment.UpdateItem.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\bin\Debug\Group Assignment.exe.config
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\bin\Debug\Group Assignment.exe
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\bin\Debug\Group Assignment.pdb
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.AboutUs.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.AddItem.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.AdminRegistration.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.ChangePassword.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Inventory.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.InventoryReport.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Login.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Properties.Resources.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.SendCode.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Splash.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.UpdateItem.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.CopyComplete
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.exe
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.pdb
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Manufacturers.resources
+C:\Users\Dell\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Sell.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\bin\Debug\Group Assignment.exe.config
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\bin\Debug\Group Assignment.exe
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\bin\Debug\Group Assignment.pdb
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.AboutUs.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.AddItem.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.AdminRegistration.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.ChangePassword.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Inventory.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.InventoryReport.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Login.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Manufacturers.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Properties.Resources.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Sell.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.SendCode.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.Splash.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group_Assignment.UpdateItem.resources
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.csproj.CopyComplete
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.exe
+C:\Users\abdul\Desktop\Academics\2021 July-Aug\Windows Prog\Assignment\Group Assignment\obj\Debug\Group Assignment.pdb
